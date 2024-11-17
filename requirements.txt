@@ -4,7 +4,7 @@ Flask==2.3.2
 
 # Database
 SQLAlchemy==2.0.16
-pip install psycopg2-binary==2.9.6
+psycopg2==2.9.6
  # for PostgreSQL (use mysql-connector-python for MySQL)
 
 # Authentication (optional)
